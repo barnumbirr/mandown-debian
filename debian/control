@@ -1,0 +1,20 @@
+Source: mandown
+Section: text
+Priority: optional
+Maintainer: Martin Simon <me@martinsimon.me>
+Build-Depends:
+ debhelper (>= 11),
+ libncursesw5-dev,
+ libxml2-dev,
+Standards-Version: 4.5.0
+Homepage: https://github.com/Titor8115/mandown
+
+Package: mandown
+Architecture: amd64
+Depends:
+ ${misc:Depends},
+ ${shlibs:Depends},
+Description: man-page inspired Markdown viewer
+ A man-page inspired Markdown pager written in C.
+ Need to lookup things from README? Or from manual page? Or perhaps just
+ want to install something cool...
