@@ -4,5 +4,5 @@
 	dh $@
 
 override_dh_auto_install:
-	install -Dm04755 "mandown" "debian/mandown/usr/bin/mandown"
-	strip "debian/mandown/usr/bin/mandown"
+	install -Dm04755 "mdn" "debian/mandown/usr/bin/mdn"
+	strip "debian/mandown/usr/bin/mdn"
