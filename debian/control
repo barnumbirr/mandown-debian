@@ -4,6 +4,7 @@ Priority: optional
 Maintainer: Martin Simon <me@martinsimon.me>
 Build-Depends:
  debhelper (>= 12),
+ libconfig-dev,
  libncursesw5-dev,
  libxml2-dev,
 Standards-Version: 4.5.1
