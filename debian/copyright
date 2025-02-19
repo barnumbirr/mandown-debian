@@ -3,15 +3,15 @@ Upstream-Name: mandown
 Source: https://github.com/Titor8115/mandown
 
 Files: *
-Copyright: 2019 Tianze Han
+Copyright: 2019-2025 Tianze Han
 License: MIT License
 
 Files: debian/*
-Copyright: 2020-2021 Martin Simon <me@martinsimon.me>
+Copyright: 2020-2025 Martin Simon <me@martinsimon.me>
 License: MIT License
 
 License: MIT License
- Copyright (c) 2020-2021 Martin Simon
+ Copyright (c) 2019-2025 Tianze Han
 
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
