@@ -4,7 +4,7 @@ set -eu
 
 IMAGE="debian:bookworm-slim"
 TARGET="$(dirname "$0" | xargs realpath)"
-VERSION="v1.0.5"
+VERSION="v1.0.5.1"
 
 while getopts "v:i:h" opt
 do

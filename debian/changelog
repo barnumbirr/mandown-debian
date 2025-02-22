@@ -1,7 +1,12 @@
+mandown (1.0.5+really1.0.5.1-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Martin Simon <martin@simon.tf>  Wed, 19 Feb 2025 00:00:00
+
 mandown (1.0.5-1) unstable; urgency=medium
 
   * New upstream release
-  * Add `libconfig` dependency
 
  -- Martin Simon <martin@simon.tf>  Wed, 19 Feb 2025 00:00:00
 
